@@ -1,0 +1,6 @@
+# URLs advertised by official indexes but returning HTTP 404
+https://learn.chatgpt.com/docs.md
+https://learn.chatgpt.com/guides/best-practices.md
+https://learn.chatgpt.com/guides/build-ai-native-engineering-team.md
+https://learn.chatgpt.com/resources.md
+https://learn.chatgpt.com/videos.md
